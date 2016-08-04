@@ -1,0 +1,46 @@
+_repo: Marius-the-Epicurean---Volume-2_4058
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pater, Walter
+    aliases:
+    - Pater, Walter H. (Walter Horatio)
+    - Pater, Walter Horatio
+    birthdate: 1839
+    deathdate: 1894
+    gutenberg_agent_id: '1367'
+    url: http://www.gutenberg.org/2009/agents/1367
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Pater
+description: "Marius the Epicurean: his sensations and ideas is a historical and philosophical\
+  \ novel by Walter Pater (his only completed full-length fiction), written between\
+  \ 1881 and 1884, published in 1885 and set in 161-177 AD, in the Rome of the Antonines.\
+  \ It explores the intellectual development of its protagonist, a young Roman of\
+  \ integrity, in his pursuit of a congenial religion or philosophy at a time of change\
+  \ and uncertainty that Pater likened to his own era. The narration is third-person,\
+  \ slanted from Marius's point of view, added to which are various interpolated discourses,\
+  \ ranging from adaptations of classical and early Christian writings to Marius’s\
+  \ diary and authorial comment.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4058'
+  wikidata: Q5477441
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcsh 'Christianity and other religions -- Roman -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PR'
+- !lcsh 'Rome -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: Marius the Epicurean — Volume 2
+url: http://www.gutenberg.org/ebooks/4058
+wikipedia:
+- https://en.wikipedia.org/wiki/Marius_the_Epicurean
+- https://es.wikipedia.org/wiki/Mario_el_epic%C3%BAreo
